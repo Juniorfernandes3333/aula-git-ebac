@@ -1,0 +1,10 @@
+Dados do aluno
+
+-Primeiro Nome: valdeci inacio fernandes junior
+-Profissão: Tecnologo em automação industrial
+-Cidade: pombal/portugal
+-O que faz nas horas vaga: estudo
+-Feedback sobre o curso Qualidade de Software: está sendo excelente e está ficando mais dificil.
+-Feedback sobre a plataforma de estudo da EBAC: Seria interessante ter um app da ebac para os cursos.
+
+Obrigado!!!
